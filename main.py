@@ -1,7 +1,6 @@
 #Nome: Lucas Moura de Almeida
 
 #Bibliotecas
-
 import numpy as n
 import math as m
 import random
