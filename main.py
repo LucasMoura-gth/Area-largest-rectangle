@@ -64,3 +64,4 @@ for m in range(0, line_aux, 1):
 
 print("\n Área máxima encontrada: {}". format(area))
 
+
