@@ -10,9 +10,8 @@ lines = random.randint(1,20) #Quantidade de Linhas
 col = random.randint(1,20) #Quantidade de Colunas
 
 #Condicional Matriz MxN (M != N)
-if lines == col:
-    col = random.randint(1,20) 
-
+#if lines == col:
+    #col = random.randint(1,20)
 
 #Declaração da variável - Matriz Inicial
 matrix = n.zeros((lines,col))
